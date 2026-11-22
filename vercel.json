@@ -1,0 +1,1504 @@
+{
+ "redirects": [
+  {
+   "source": "/60",
+   "destination": "/writing/60/",
+   "permanent": true
+  },
+  {
+   "source": "/60/",
+   "destination": "/writing/60/",
+   "permanent": true
+  },
+  {
+   "source": "/872-2",
+   "destination": "/writing/872-2/",
+   "permanent": true
+  },
+  {
+   "source": "/872-2/",
+   "destination": "/writing/872-2/",
+   "permanent": true
+  },
+  {
+   "source": "/876-2",
+   "destination": "/writing/876-2/",
+   "permanent": true
+  },
+  {
+   "source": "/876-2/",
+   "destination": "/writing/876-2/",
+   "permanent": true
+  },
+  {
+   "source": "/a-dark-time",
+   "destination": "/writing/a-dark-time/",
+   "permanent": true
+  },
+  {
+   "source": "/a-dark-time/",
+   "destination": "/writing/a-dark-time/",
+   "permanent": true
+  },
+  {
+   "source": "/a-few-joyous-things",
+   "destination": "/writing/a-few-joyous-things/",
+   "permanent": true
+  },
+  {
+   "source": "/a-few-joyous-things/",
+   "destination": "/writing/a-few-joyous-things/",
+   "permanent": true
+  },
+  {
+   "source": "/a-simple-thursday",
+   "destination": "/writing/a-simple-thursday/",
+   "permanent": true
+  },
+  {
+   "source": "/a-simple-thursday/",
+   "destination": "/writing/a-simple-thursday/",
+   "permanent": true
+  },
+  {
+   "source": "/an-entrance-to-a-space",
+   "destination": "/writing/an-entrance-to-a-space/",
+   "permanent": true
+  },
+  {
+   "source": "/an-entrance-to-a-space/",
+   "destination": "/writing/an-entrance-to-a-space/",
+   "permanent": true
+  },
+  {
+   "source": "/anticipation",
+   "destination": "/writing/anticipation/",
+   "permanent": true
+  },
+  {
+   "source": "/anticipation/",
+   "destination": "/writing/anticipation/",
+   "permanent": true
+  },
+  {
+   "source": "/appreciation-for-life",
+   "destination": "/writing/appreciation-for-life/",
+   "permanent": true
+  },
+  {
+   "source": "/appreciation-for-life/",
+   "destination": "/writing/appreciation-for-life/",
+   "permanent": true
+  },
+  {
+   "source": "/appreciation",
+   "destination": "/writing/appreciation/",
+   "permanent": true
+  },
+  {
+   "source": "/appreciation/",
+   "destination": "/writing/appreciation/",
+   "permanent": true
+  },
+  {
+   "source": "/attractor-the-elastic-space",
+   "destination": "/writing/attractor-the-elastic-space/",
+   "permanent": true
+  },
+  {
+   "source": "/attractor-the-elastic-space/",
+   "destination": "/writing/attractor-the-elastic-space/",
+   "permanent": true
+  },
+  {
+   "source": "/author-reading-at-sunworks",
+   "destination": "/writing/author-reading-at-sunworks/",
+   "permanent": true
+  },
+  {
+   "source": "/author-reading-at-sunworks/",
+   "destination": "/writing/author-reading-at-sunworks/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-1",
+   "destination": "/writing/autumn-day-1/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-1/",
+   "destination": "/writing/autumn-day-1/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-10",
+   "destination": "/writing/autumn-day-10/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-10/",
+   "destination": "/writing/autumn-day-10/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-11",
+   "destination": "/writing/autumn-day-11/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-11/",
+   "destination": "/writing/autumn-day-11/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-19",
+   "destination": "/writing/autumn-day-19/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-19/",
+   "destination": "/writing/autumn-day-19/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-2",
+   "destination": "/writing/autumn-day-2/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-2/",
+   "destination": "/writing/autumn-day-2/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-22",
+   "destination": "/writing/autumn-day-22/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-22/",
+   "destination": "/writing/autumn-day-22/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-25",
+   "destination": "/writing/autumn-day-25/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-25/",
+   "destination": "/writing/autumn-day-25/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-26",
+   "destination": "/writing/autumn-day-26/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-26/",
+   "destination": "/writing/autumn-day-26/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-3",
+   "destination": "/writing/autumn-day-3/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-3/",
+   "destination": "/writing/autumn-day-3/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-30",
+   "destination": "/writing/autumn-day-30/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-30/",
+   "destination": "/writing/autumn-day-30/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-32",
+   "destination": "/writing/autumn-day-32/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-32/",
+   "destination": "/writing/autumn-day-32/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-35",
+   "destination": "/writing/autumn-day-35/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-35/",
+   "destination": "/writing/autumn-day-35/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-37",
+   "destination": "/writing/autumn-day-37/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-37/",
+   "destination": "/writing/autumn-day-37/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-4",
+   "destination": "/writing/autumn-day-4/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-4/",
+   "destination": "/writing/autumn-day-4/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-40",
+   "destination": "/writing/autumn-day-40/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-40/",
+   "destination": "/writing/autumn-day-40/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-41",
+   "destination": "/writing/autumn-day-41/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-41/",
+   "destination": "/writing/autumn-day-41/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-42",
+   "destination": "/writing/autumn-day-42/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-42/",
+   "destination": "/writing/autumn-day-42/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-46",
+   "destination": "/writing/autumn-day-46/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-46/",
+   "destination": "/writing/autumn-day-46/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-48",
+   "destination": "/writing/autumn-day-48/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-48/",
+   "destination": "/writing/autumn-day-48/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-5",
+   "destination": "/writing/autumn-day-5/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-5/",
+   "destination": "/writing/autumn-day-5/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-50",
+   "destination": "/writing/autumn-day-50/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-50/",
+   "destination": "/writing/autumn-day-50/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-56",
+   "destination": "/writing/autumn-day-56/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-56/",
+   "destination": "/writing/autumn-day-56/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-6",
+   "destination": "/writing/autumn-day-6/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-6/",
+   "destination": "/writing/autumn-day-6/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-62",
+   "destination": "/writing/autumn-day-62/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-62/",
+   "destination": "/writing/autumn-day-62/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-65",
+   "destination": "/writing/autumn-day-65/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-65/",
+   "destination": "/writing/autumn-day-65/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-69-chanting-for-change",
+   "destination": "/writing/autumn-day-69-chanting-for-change/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-69-chanting-for-change/",
+   "destination": "/writing/autumn-day-69-chanting-for-change/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-77",
+   "destination": "/writing/autumn-day-77/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-77/",
+   "destination": "/writing/autumn-day-77/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-79",
+   "destination": "/writing/autumn-day-79/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-79/",
+   "destination": "/writing/autumn-day-79/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-88-loose-ends",
+   "destination": "/writing/autumn-day-88-loose-ends/",
+   "permanent": true
+  },
+  {
+   "source": "/autumn-day-88-loose-ends/",
+   "destination": "/writing/autumn-day-88-loose-ends/",
+   "permanent": true
+  },
+  {
+   "source": "/autumnal-equinox-2018",
+   "destination": "/writing/autumnal-equinox-2018/",
+   "permanent": true
+  },
+  {
+   "source": "/autumnal-equinox-2018/",
+   "destination": "/writing/autumnal-equinox-2018/",
+   "permanent": true
+  },
+  {
+   "source": "/becoming-italian-7-days-before",
+   "destination": "/writing/becoming-italian-7-days-before/",
+   "permanent": true
+  },
+  {
+   "source": "/becoming-italian-7-days-before/",
+   "destination": "/writing/becoming-italian-7-days-before/",
+   "permanent": true
+  },
+  {
+   "source": "/being-me",
+   "destination": "/writing/being-me/",
+   "permanent": true
+  },
+  {
+   "source": "/being-me/",
+   "destination": "/writing/being-me/",
+   "permanent": true
+  },
+  {
+   "source": "/blase",
+   "destination": "/writing/blase/",
+   "permanent": true
+  },
+  {
+   "source": "/blase/",
+   "destination": "/writing/blase/",
+   "permanent": true
+  },
+  {
+   "source": "/blessings",
+   "destination": "/writing/blessings/",
+   "permanent": true
+  },
+  {
+   "source": "/blessings/",
+   "destination": "/writing/blessings/",
+   "permanent": true
+  },
+  {
+   "source": "/british-airways-january-11-2009",
+   "destination": "/writing/british-airways-january-11-2009/",
+   "permanent": true
+  },
+  {
+   "source": "/british-airways-january-11-2009/",
+   "destination": "/writing/british-airways-january-11-2009/",
+   "permanent": true
+  },
+  {
+   "source": "/buon-viaggio-bello",
+   "destination": "/writing/buon-viaggio-bello/",
+   "permanent": true
+  },
+  {
+   "source": "/buon-viaggio-bello/",
+   "destination": "/writing/buon-viaggio-bello/",
+   "permanent": true
+  },
+  {
+   "source": "/children-of-men",
+   "destination": "/writing/children-of-men/",
+   "permanent": true
+  },
+  {
+   "source": "/children-of-men/",
+   "destination": "/writing/children-of-men/",
+   "permanent": true
+  },
+  {
+   "source": "/creating-cenotaph-plaza",
+   "destination": "/writing/creating-cenotaph-plaza/",
+   "permanent": true
+  },
+  {
+   "source": "/creating-cenotaph-plaza/",
+   "destination": "/writing/creating-cenotaph-plaza/",
+   "permanent": true
+  },
+  {
+   "source": "/day-1-on-my-way",
+   "destination": "/writing/day-1-on-my-way/",
+   "permanent": true
+  },
+  {
+   "source": "/day-1-on-my-way/",
+   "destination": "/writing/day-1-on-my-way/",
+   "permanent": true
+  },
+  {
+   "source": "/day-1-space",
+   "destination": "/writing/day-1-space/",
+   "permanent": true
+  },
+  {
+   "source": "/day-1-space/",
+   "destination": "/writing/day-1-space/",
+   "permanent": true
+  },
+  {
+   "source": "/day-10-successful-opening",
+   "destination": "/writing/day-10-successful-opening/",
+   "permanent": true
+  },
+  {
+   "source": "/day-10-successful-opening/",
+   "destination": "/writing/day-10-successful-opening/",
+   "permanent": true
+  },
+  {
+   "source": "/day-13-getting-ready-for-the-big-move",
+   "destination": "/writing/day-13-getting-ready-for-the-big-move/",
+   "permanent": true
+  },
+  {
+   "source": "/day-13-getting-ready-for-the-big-move/",
+   "destination": "/writing/day-13-getting-ready-for-the-big-move/",
+   "permanent": true
+  },
+  {
+   "source": "/day-16-its-a-snowy-one",
+   "destination": "/writing/day-16-its-a-snowy-one/",
+   "permanent": true
+  },
+  {
+   "source": "/day-16-its-a-snowy-one/",
+   "destination": "/writing/day-16-its-a-snowy-one/",
+   "permanent": true
+  },
+  {
+   "source": "/day-2-the-course-begins",
+   "destination": "/writing/day-2-the-course-begins/",
+   "permanent": true
+  },
+  {
+   "source": "/day-2-the-course-begins/",
+   "destination": "/writing/day-2-the-course-begins/",
+   "permanent": true
+  },
+  {
+   "source": "/day-2",
+   "destination": "/writing/day-2/",
+   "permanent": true
+  },
+  {
+   "source": "/day-2/",
+   "destination": "/writing/day-2/",
+   "permanent": true
+  },
+  {
+   "source": "/day-3-the-set-up-continues",
+   "destination": "/writing/day-3-the-set-up-continues/",
+   "permanent": true
+  },
+  {
+   "source": "/day-3-the-set-up-continues/",
+   "destination": "/writing/day-3-the-set-up-continues/",
+   "permanent": true
+  },
+  {
+   "source": "/day-4-sunday-february-24rd",
+   "destination": "/writing/day-4-sunday-february-24rd/",
+   "permanent": true
+  },
+  {
+   "source": "/day-4-sunday-february-24rd/",
+   "destination": "/writing/day-4-sunday-february-24rd/",
+   "permanent": true
+  },
+  {
+   "source": "/day-5-a-big-week-ahead",
+   "destination": "/writing/day-5-a-big-week-ahead/",
+   "permanent": true
+  },
+  {
+   "source": "/day-5-a-big-week-ahead/",
+   "destination": "/writing/day-5-a-big-week-ahead/",
+   "permanent": true
+  },
+  {
+   "source": "/day-6-minus-34-defy-or-hide",
+   "destination": "/writing/day-6-minus-34-defy-or-hide/",
+   "permanent": true
+  },
+  {
+   "source": "/day-6-minus-34-defy-or-hide/",
+   "destination": "/writing/day-6-minus-34-defy-or-hide/",
+   "permanent": true
+  },
+  {
+   "source": "/day-8-let-there-be-light",
+   "destination": "/writing/day-8-let-there-be-light/",
+   "permanent": true
+  },
+  {
+   "source": "/day-8-let-there-be-light/",
+   "destination": "/writing/day-8-let-there-be-light/",
+   "permanent": true
+  },
+  {
+   "source": "/day-9-jeri-lynn-ings-opening-reception",
+   "destination": "/writing/day-9-jeri-lynn-ings-opening-reception/",
+   "permanent": true
+  },
+  {
+   "source": "/day-9-jeri-lynn-ings-opening-reception/",
+   "destination": "/writing/day-9-jeri-lynn-ings-opening-reception/",
+   "permanent": true
+  },
+  {
+   "source": "/dialogue-is-the-epicentre-of-change",
+   "destination": "/writing/dialogue-is-the-epicentre-of-change/",
+   "permanent": true
+  },
+  {
+   "source": "/dialogue-is-the-epicentre-of-change/",
+   "destination": "/writing/dialogue-is-the-epicentre-of-change/",
+   "permanent": true
+  },
+  {
+   "source": "/energy-of-change",
+   "destination": "/writing/energy-of-change/",
+   "permanent": true
+  },
+  {
+   "source": "/energy-of-change/",
+   "destination": "/writing/energy-of-change/",
+   "permanent": true
+  },
+  {
+   "source": "/equinox",
+   "destination": "/writing/equinox/",
+   "permanent": true
+  },
+  {
+   "source": "/equinox/",
+   "destination": "/writing/equinox/",
+   "permanent": true
+  },
+  {
+   "source": "/exploring-relational-psychocartography",
+   "destination": "/writing/exploring-relational-psychocartography/",
+   "permanent": true
+  },
+  {
+   "source": "/exploring-relational-psychocartography/",
+   "destination": "/writing/exploring-relational-psychocartography/",
+   "permanent": true
+  },
+  {
+   "source": "/final-concert",
+   "destination": "/writing/final-concert/",
+   "permanent": true
+  },
+  {
+   "source": "/final-concert/",
+   "destination": "/writing/final-concert/",
+   "permanent": true
+  },
+  {
+   "source": "/first-fridays",
+   "destination": "/writing/first-fridays/",
+   "permanent": true
+  },
+  {
+   "source": "/first-fridays/",
+   "destination": "/writing/first-fridays/",
+   "permanent": true
+  },
+  {
+   "source": "/four-quadrants-of-change",
+   "destination": "/writing/four-quadrants-of-change/",
+   "permanent": true
+  },
+  {
+   "source": "/four-quadrants-of-change/",
+   "destination": "/writing/four-quadrants-of-change/",
+   "permanent": true
+  },
+  {
+   "source": "/friday-evening-bike-ride",
+   "destination": "/writing/friday-evening-bike-ride/",
+   "permanent": true
+  },
+  {
+   "source": "/friday-evening-bike-ride/",
+   "destination": "/writing/friday-evening-bike-ride/",
+   "permanent": true
+  },
+  {
+   "source": "/functioning-within-normal-parameters",
+   "destination": "/writing/functioning-within-normal-parameters/",
+   "permanent": true
+  },
+  {
+   "source": "/functioning-within-normal-parameters/",
+   "destination": "/writing/functioning-within-normal-parameters/",
+   "permanent": true
+  },
+  {
+   "source": "/fwd-barcelona-flat",
+   "destination": "/writing/fwd-barcelona-flat/",
+   "permanent": true
+  },
+  {
+   "source": "/fwd-barcelona-flat/",
+   "destination": "/writing/fwd-barcelona-flat/",
+   "permanent": true
+  },
+  {
+   "source": "/gaudis-gift-reminds-me",
+   "destination": "/writing/gaudis-gift-reminds-me/",
+   "permanent": true
+  },
+  {
+   "source": "/gaudis-gift-reminds-me/",
+   "destination": "/writing/gaudis-gift-reminds-me/",
+   "permanent": true
+  },
+  {
+   "source": "/good-news",
+   "destination": "/writing/good-news/",
+   "permanent": true
+  },
+  {
+   "source": "/good-news/",
+   "destination": "/writing/good-news/",
+   "permanent": true
+  },
+  {
+   "source": "/great-connections",
+   "destination": "/writing/great-connections/",
+   "permanent": true
+  },
+  {
+   "source": "/great-connections/",
+   "destination": "/writing/great-connections/",
+   "permanent": true
+  },
+  {
+   "source": "/here-we-go",
+   "destination": "/writing/here-we-go/",
+   "permanent": true
+  },
+  {
+   "source": "/here-we-go/",
+   "destination": "/writing/here-we-go/",
+   "permanent": true
+  },
+  {
+   "source": "/iceland",
+   "destination": "/writing/iceland/",
+   "permanent": true
+  },
+  {
+   "source": "/iceland/",
+   "destination": "/writing/iceland/",
+   "permanent": true
+  },
+  {
+   "source": "/identity",
+   "destination": "/writing/identity/",
+   "permanent": true
+  },
+  {
+   "source": "/identity/",
+   "destination": "/writing/identity/",
+   "permanent": true
+  },
+  {
+   "source": "/its-a-circle",
+   "destination": "/writing/its-a-circle/",
+   "permanent": true
+  },
+  {
+   "source": "/its-a-circle/",
+   "destination": "/writing/its-a-circle/",
+   "permanent": true
+  },
+  {
+   "source": "/its-a-start-2",
+   "destination": "/writing/its-a-start-2/",
+   "permanent": true
+  },
+  {
+   "source": "/its-a-start-2/",
+   "destination": "/writing/its-a-start-2/",
+   "permanent": true
+  },
+  {
+   "source": "/its-a-start",
+   "destination": "/writing/its-a-start/",
+   "permanent": true
+  },
+  {
+   "source": "/its-a-start/",
+   "destination": "/writing/its-a-start/",
+   "permanent": true
+  },
+  {
+   "source": "/john-lent-1",
+   "destination": "/writing/john-lent-1/",
+   "permanent": true
+  },
+  {
+   "source": "/john-lent-1/",
+   "destination": "/writing/john-lent-1/",
+   "permanent": true
+  },
+  {
+   "source": "/knock-on-wood",
+   "destination": "/writing/knock-on-wood/",
+   "permanent": true
+  },
+  {
+   "source": "/knock-on-wood/",
+   "destination": "/writing/knock-on-wood/",
+   "permanent": true
+  },
+  {
+   "source": "/la-mia-piccola-famiglia-italiana",
+   "destination": "/writing/la-mia-piccola-famiglia-italiana/",
+   "permanent": true
+  },
+  {
+   "source": "/la-mia-piccola-famiglia-italiana/",
+   "destination": "/writing/la-mia-piccola-famiglia-italiana/",
+   "permanent": true
+  },
+  {
+   "source": "/light",
+   "destination": "/writing/light/",
+   "permanent": true
+  },
+  {
+   "source": "/light/",
+   "destination": "/writing/light/",
+   "permanent": true
+  },
+  {
+   "source": "/mai-tais-await",
+   "destination": "/writing/mai-tais-await/",
+   "permanent": true
+  },
+  {
+   "source": "/mai-tais-await/",
+   "destination": "/writing/mai-tais-await/",
+   "permanent": true
+  },
+  {
+   "source": "/maui-restaurants",
+   "destination": "/writing/maui-restaurants/",
+   "permanent": true
+  },
+  {
+   "source": "/maui-restaurants/",
+   "destination": "/writing/maui-restaurants/",
+   "permanent": true
+  },
+  {
+   "source": "/moonset",
+   "destination": "/writing/moonset/",
+   "permanent": true
+  },
+  {
+   "source": "/moonset/",
+   "destination": "/writing/moonset/",
+   "permanent": true
+  },
+  {
+   "source": "/my-first-day-at-the-new-space",
+   "destination": "/writing/my-first-day-at-the-new-space/",
+   "permanent": true
+  },
+  {
+   "source": "/my-first-day-at-the-new-space/",
+   "destination": "/writing/my-first-day-at-the-new-space/",
+   "permanent": true
+  },
+  {
+   "source": "/on-my-way",
+   "destination": "/writing/on-my-way/",
+   "permanent": true
+  },
+  {
+   "source": "/on-my-way/",
+   "destination": "/writing/on-my-way/",
+   "permanent": true
+  },
+  {
+   "source": "/on-the-beach",
+   "destination": "/writing/on-the-beach/",
+   "permanent": true
+  },
+  {
+   "source": "/on-the-beach/",
+   "destination": "/writing/on-the-beach/",
+   "permanent": true
+  },
+  {
+   "source": "/one-big-dumb-non-boom-i-survived",
+   "destination": "/writing/one-big-dumb-non-boom-i-survived/",
+   "permanent": true
+  },
+  {
+   "source": "/one-big-dumb-non-boom-i-survived/",
+   "destination": "/writing/one-big-dumb-non-boom-i-survived/",
+   "permanent": true
+  },
+  {
+   "source": "/orange-moon-rising",
+   "destination": "/writing/orange-moon-rising/",
+   "permanent": true
+  },
+  {
+   "source": "/orange-moon-rising/",
+   "destination": "/writing/orange-moon-rising/",
+   "permanent": true
+  },
+  {
+   "source": "/over-and-over",
+   "destination": "/writing/over-and-over/",
+   "permanent": true
+  },
+  {
+   "source": "/over-and-over/",
+   "destination": "/writing/over-and-over/",
+   "permanent": true
+  },
+  {
+   "source": "/painting-to-centre",
+   "destination": "/writing/painting-to-centre/",
+   "permanent": true
+  },
+  {
+   "source": "/painting-to-centre/",
+   "destination": "/writing/painting-to-centre/",
+   "permanent": true
+  },
+  {
+   "source": "/painting",
+   "destination": "/writing/painting/",
+   "permanent": true
+  },
+  {
+   "source": "/painting/",
+   "destination": "/writing/painting/",
+   "permanent": true
+  },
+  {
+   "source": "/perspectives",
+   "destination": "/writing/perspectives/",
+   "permanent": true
+  },
+  {
+   "source": "/perspectives/",
+   "destination": "/writing/perspectives/",
+   "permanent": true
+  },
+  {
+   "source": "/praxis-in-action",
+   "destination": "/writing/praxis-in-action/",
+   "permanent": true
+  },
+  {
+   "source": "/praxis-in-action/",
+   "destination": "/writing/praxis-in-action/",
+   "permanent": true
+  },
+  {
+   "source": "/progress",
+   "destination": "/writing/progress/",
+   "permanent": true
+  },
+  {
+   "source": "/progress/",
+   "destination": "/writing/progress/",
+   "permanent": true
+  },
+  {
+   "source": "/psychological-decluttering",
+   "destination": "/writing/psychological-decluttering/",
+   "permanent": true
+  },
+  {
+   "source": "/psychological-decluttering/",
+   "destination": "/writing/psychological-decluttering/",
+   "permanent": true
+  },
+  {
+   "source": "/reflexity",
+   "destination": "/writing/reflexity/",
+   "permanent": true
+  },
+  {
+   "source": "/reflexity/",
+   "destination": "/writing/reflexity/",
+   "permanent": true
+  },
+  {
+   "source": "/relational-gardeners",
+   "destination": "/writing/relational-gardeners/",
+   "permanent": true
+  },
+  {
+   "source": "/relational-gardeners/",
+   "destination": "/writing/relational-gardeners/",
+   "permanent": true
+  },
+  {
+   "source": "/restart-and-new-chapter",
+   "destination": "/writing/restart-and-new-chapter/",
+   "permanent": true
+  },
+  {
+   "source": "/restart-and-new-chapter/",
+   "destination": "/writing/restart-and-new-chapter/",
+   "permanent": true
+  },
+  {
+   "source": "/setting-out",
+   "destination": "/writing/setting-out/",
+   "permanent": true
+  },
+  {
+   "source": "/setting-out/",
+   "destination": "/writing/setting-out/",
+   "permanent": true
+  },
+  {
+   "source": "/settling-in",
+   "destination": "/writing/settling-in/",
+   "permanent": true
+  },
+  {
+   "source": "/settling-in/",
+   "destination": "/writing/settling-in/",
+   "permanent": true
+  },
+  {
+   "source": "/shelving",
+   "destination": "/writing/shelving/",
+   "permanent": true
+  },
+  {
+   "source": "/shelving/",
+   "destination": "/writing/shelving/",
+   "permanent": true
+  },
+  {
+   "source": "/showing-not-telling",
+   "destination": "/writing/showing-not-telling/",
+   "permanent": true
+  },
+  {
+   "source": "/showing-not-telling/",
+   "destination": "/writing/showing-not-telling/",
+   "permanent": true
+  },
+  {
+   "source": "/some-reflections-about-japan",
+   "destination": "/writing/some-reflections-about-japan/",
+   "permanent": true
+  },
+  {
+   "source": "/some-reflections-about-japan/",
+   "destination": "/writing/some-reflections-about-japan/",
+   "permanent": true
+  },
+  {
+   "source": "/sparkling-crazy",
+   "destination": "/writing/sparkling-crazy/",
+   "permanent": true
+  },
+  {
+   "source": "/sparkling-crazy/",
+   "destination": "/writing/sparkling-crazy/",
+   "permanent": true
+  },
+  {
+   "source": "/standing-beside-myself-calmly",
+   "destination": "/writing/standing-beside-myself-calmly/",
+   "permanent": true
+  },
+  {
+   "source": "/standing-beside-myself-calmly/",
+   "destination": "/writing/standing-beside-myself-calmly/",
+   "permanent": true
+  },
+  {
+   "source": "/steady-progress",
+   "destination": "/writing/steady-progress/",
+   "permanent": true
+  },
+  {
+   "source": "/steady-progress/",
+   "destination": "/writing/steady-progress/",
+   "permanent": true
+  },
+  {
+   "source": "/sunworks-march-2010-newsletter",
+   "destination": "/writing/sunworks-march-2010-newsletter/",
+   "permanent": true
+  },
+  {
+   "source": "/sunworks-march-2010-newsletter/",
+   "destination": "/writing/sunworks-march-2010-newsletter/",
+   "permanent": true
+  },
+  {
+   "source": "/surrounded-by-goodness",
+   "destination": "/writing/surrounded-by-goodness/",
+   "permanent": true
+  },
+  {
+   "source": "/surrounded-by-goodness/",
+   "destination": "/writing/surrounded-by-goodness/",
+   "permanent": true
+  },
+  {
+   "source": "/sweep",
+   "destination": "/writing/sweep/",
+   "permanent": true
+  },
+  {
+   "source": "/sweep/",
+   "destination": "/writing/sweep/",
+   "permanent": true
+  },
+  {
+   "source": "/sweeping-change",
+   "destination": "/writing/sweeping-change/",
+   "permanent": true
+  },
+  {
+   "source": "/sweeping-change/",
+   "destination": "/writing/sweeping-change/",
+   "permanent": true
+  },
+  {
+   "source": "/swerve-in-context",
+   "destination": "/writing/swerve-in-context/",
+   "permanent": true
+  },
+  {
+   "source": "/swerve-in-context/",
+   "destination": "/writing/swerve-in-context/",
+   "permanent": true
+  },
+  {
+   "source": "/swerve-living",
+   "destination": "/writing/swerve-living/",
+   "permanent": true
+  },
+  {
+   "source": "/swerve-living/",
+   "destination": "/writing/swerve-living/",
+   "permanent": true
+  },
+  {
+   "source": "/tending-your-relational-garden",
+   "destination": "/writing/tending-your-relational-garden/",
+   "permanent": true
+  },
+  {
+   "source": "/tending-your-relational-garden/",
+   "destination": "/writing/tending-your-relational-garden/",
+   "permanent": true
+  },
+  {
+   "source": "/thanksgiving-weekend-next-stop-christmas",
+   "destination": "/writing/thanksgiving-weekend-next-stop-christmas/",
+   "permanent": true
+  },
+  {
+   "source": "/thanksgiving-weekend-next-stop-christmas/",
+   "destination": "/writing/thanksgiving-weekend-next-stop-christmas/",
+   "permanent": true
+  },
+  {
+   "source": "/the-blessing-of-company",
+   "destination": "/writing/the-blessing-of-company/",
+   "permanent": true
+  },
+  {
+   "source": "/the-blessing-of-company/",
+   "destination": "/writing/the-blessing-of-company/",
+   "permanent": true
+  },
+  {
+   "source": "/the-empathetic-civilization",
+   "destination": "/writing/the-empathetic-civilization/",
+   "permanent": true
+  },
+  {
+   "source": "/the-empathetic-civilization/",
+   "destination": "/writing/the-empathetic-civilization/",
+   "permanent": true
+  },
+  {
+   "source": "/the-question-arises-again",
+   "destination": "/writing/the-question-arises-again/",
+   "permanent": true
+  },
+  {
+   "source": "/the-question-arises-again/",
+   "destination": "/writing/the-question-arises-again/",
+   "permanent": true
+  },
+  {
+   "source": "/the-space-in-between-2",
+   "destination": "/writing/the-space-in-between-2/",
+   "permanent": true
+  },
+  {
+   "source": "/the-space-in-between-2/",
+   "destination": "/writing/the-space-in-between-2/",
+   "permanent": true
+  },
+  {
+   "source": "/the-space-in-between",
+   "destination": "/writing/the-space-in-between/",
+   "permanent": true
+  },
+  {
+   "source": "/the-space-in-between/",
+   "destination": "/writing/the-space-in-between/",
+   "permanent": true
+  },
+  {
+   "source": "/the-universe-amazes-me",
+   "destination": "/writing/the-universe-amazes-me/",
+   "permanent": true
+  },
+  {
+   "source": "/the-universe-amazes-me/",
+   "destination": "/writing/the-universe-amazes-me/",
+   "permanent": true
+  },
+  {
+   "source": "/thinking-about-new-home-space",
+   "destination": "/writing/thinking-about-new-home-space/",
+   "permanent": true
+  },
+  {
+   "source": "/thinking-about-new-home-space/",
+   "destination": "/writing/thinking-about-new-home-space/",
+   "permanent": true
+  },
+  {
+   "source": "/thoughts-about-built-space",
+   "destination": "/writing/thoughts-about-built-space/",
+   "permanent": true
+  },
+  {
+   "source": "/thoughts-about-built-space/",
+   "destination": "/writing/thoughts-about-built-space/",
+   "permanent": true
+  },
+  {
+   "source": "/three-more-sleeps",
+   "destination": "/writing/three-more-sleeps/",
+   "permanent": true
+  },
+  {
+   "source": "/three-more-sleeps/",
+   "destination": "/writing/three-more-sleeps/",
+   "permanent": true
+  },
+  {
+   "source": "/time-to-run-for-council",
+   "destination": "/writing/time-to-run-for-council/",
+   "permanent": true
+  },
+  {
+   "source": "/time-to-run-for-council/",
+   "destination": "/writing/time-to-run-for-council/",
+   "permanent": true
+  },
+  {
+   "source": "/to-send-or-not-to-send",
+   "destination": "/writing/to-send-or-not-to-send/",
+   "permanent": true
+  },
+  {
+   "source": "/to-send-or-not-to-send/",
+   "destination": "/writing/to-send-or-not-to-send/",
+   "permanent": true
+  },
+  {
+   "source": "/toward-collaborative-governance",
+   "destination": "/writing/toward-collaborative-governance/",
+   "permanent": true
+  },
+  {
+   "source": "/toward-collaborative-governance/",
+   "destination": "/writing/toward-collaborative-governance/",
+   "permanent": true
+  },
+  {
+   "source": "/towards-relational-mapping",
+   "destination": "/writing/towards-relational-mapping/",
+   "permanent": true
+  },
+  {
+   "source": "/towards-relational-mapping/",
+   "destination": "/writing/towards-relational-mapping/",
+   "permanent": true
+  },
+  {
+   "source": "/universe-unfolding",
+   "destination": "/writing/universe-unfolding/",
+   "permanent": true
+  },
+  {
+   "source": "/universe-unfolding/",
+   "destination": "/writing/universe-unfolding/",
+   "permanent": true
+  },
+  {
+   "source": "/update",
+   "destination": "/writing/update/",
+   "permanent": true
+  },
+  {
+   "source": "/update/",
+   "destination": "/writing/update/",
+   "permanent": true
+  },
+  {
+   "source": "/valentines-sunworks-stay-out-of-the-doghouse-edition",
+   "destination": "/writing/valentines-sunworks-stay-out-of-the-doghouse-edition/",
+   "permanent": true
+  },
+  {
+   "source": "/valentines-sunworks-stay-out-of-the-doghouse-edition/",
+   "destination": "/writing/valentines-sunworks-stay-out-of-the-doghouse-edition/",
+   "permanent": true
+  },
+  {
+   "source": "/view-this-and-hope",
+   "destination": "/writing/view-this-and-hope/",
+   "permanent": true
+  },
+  {
+   "source": "/view-this-and-hope/",
+   "destination": "/writing/view-this-and-hope/",
+   "permanent": true
+  },
+  {
+   "source": "/warm-weather-finally",
+   "destination": "/writing/warm-weather-finally/",
+   "permanent": true
+  },
+  {
+   "source": "/warm-weather-finally/",
+   "destination": "/writing/warm-weather-finally/",
+   "permanent": true
+  },
+  {
+   "source": "/waterworld-i",
+   "destination": "/writing/waterworld-i/",
+   "permanent": true
+  },
+  {
+   "source": "/waterworld-i/",
+   "destination": "/writing/waterworld-i/",
+   "permanent": true
+  },
+  {
+   "source": "/what-are-we-maintaining",
+   "destination": "/writing/what-are-we-maintaining/",
+   "permanent": true
+  },
+  {
+   "source": "/what-are-we-maintaining/",
+   "destination": "/writing/what-are-we-maintaining/",
+   "permanent": true
+  },
+  {
+   "source": "/what-we-dont-say-but-could",
+   "destination": "/writing/what-we-dont-say-but-could/",
+   "permanent": true
+  },
+  {
+   "source": "/what-we-dont-say-but-could/",
+   "destination": "/writing/what-we-dont-say-but-could/",
+   "permanent": true
+  },
+  {
+   "source": "/whats-holding-us-in-place",
+   "destination": "/writing/whats-holding-us-in-place/",
+   "permanent": true
+  },
+  {
+   "source": "/whats-holding-us-in-place/",
+   "destination": "/writing/whats-holding-us-in-place/",
+   "permanent": true
+  },
+  {
+   "source": "/winter-day-1",
+   "destination": "/writing/winter-day-1/",
+   "permanent": true
+  },
+  {
+   "source": "/winter-day-1/",
+   "destination": "/writing/winter-day-1/",
+   "permanent": true
+  },
+  {
+   "source": "/wobble-wobble-balance",
+   "destination": "/writing/wobble-wobble-balance/",
+   "permanent": true
+  },
+  {
+   "source": "/wobble-wobble-balance/",
+   "destination": "/writing/wobble-wobble-balance/",
+   "permanent": true
+  },
+  {
+   "source": "/writing-circle",
+   "destination": "/writing/writing-circle/",
+   "permanent": true
+  },
+  {
+   "source": "/writing-circle/",
+   "destination": "/writing/writing-circle/",
+   "permanent": true
+  },
+  {
+   "source": "/writing",
+   "destination": "/writing/writing/",
+   "permanent": true
+  },
+  {
+   "source": "/writing/",
+   "destination": "/writing/writing/",
+   "permanent": true
+  },
+  {
+   "source": "/yvon-goulet-montreal",
+   "destination": "/writing/yvon-goulet-montreal/",
+   "permanent": true
+  },
+  {
+   "source": "/yvon-goulet-montreal/",
+   "destination": "/writing/yvon-goulet-montreal/",
+   "permanent": true
+  },
+  {
+   "source": "/page/:n",
+   "destination": "/writing/",
+   "permanent": true
+  },
+  {
+   "source": "/page/:n/",
+   "destination": "/writing/",
+   "permanent": true
+  },
+  {
+   "source": "/category/:path*",
+   "destination": "/writing/",
+   "permanent": true
+  },
+  {
+   "source": "/tag/:path*",
+   "destination": "/writing/",
+   "permanent": true
+  },
+  {
+   "source": "/feed",
+   "destination": "/writing/",
+   "permanent": false
+  },
+  {
+   "source": "/feed/",
+   "destination": "/writing/",
+   "permanent": false
+  }
+ ]
+}
